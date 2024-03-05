@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 Veja o projeto aqui:
-<a href=https://vrmtdev.github.io/mylinks/>Projeto</a>
+<a href="https://vrmtdev.github.io/mylinks/" target="_blank">Projeto</a>
