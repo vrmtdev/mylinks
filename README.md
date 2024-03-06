@@ -12,3 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+
+
+Veja o projeto aqui:
+<a href="https://vrmtdev.github.io/mylinks/" target="_blank">Projeto</a>
